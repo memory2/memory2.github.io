@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>巴黎左岸の小镇℃</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-01-06T08:05:53.992Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>王建光</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>社区防控专家吴浩分析河北藁城疫情：“农村病毒传播风险更大”</title>
+    <link href="http://example.com/2021/01/06/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://example.com/2021/01/06/%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-01-06T08:05:28.000Z</published>
+    <updated>2021-01-06T08:05:53.992Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文转自【中央广播电视总台中国之声】；&lt;/p&gt;
+&lt;p&gt;1月5日，河北省卫健委通报，1月4日0—24时，河北省新增14例本地确诊病例,其中石家庄市报告11例，新增30例本地无症状感染者，均为石家庄市报告。1月5日起，河北省石家庄市藁城区增村镇小果庄村调整为高风险地区，为全国现</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/01/06/hello-world/"/>
+    <id>http://example.com/2021/01/06/hello-world/</id>
+    <published>2021-01-06T00:53:08.603Z</published>
+    <updated>2021-01-06T00:53:08.603Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
